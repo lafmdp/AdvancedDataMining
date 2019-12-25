@@ -1,5 +1,5 @@
 '''
-  
+  Run this file to get prediction.
   @python version : 3.6.8
   @author : pangjc
   @time : 2019/12/25
